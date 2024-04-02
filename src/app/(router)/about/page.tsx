@@ -10,7 +10,7 @@ const aboutPage = () => {
       <Navbar />
       <Box display="flex">
         <Box className={style.testKotak}>
-          <Typography>Test</Typography>
+          <Typography>Test222</Typography>
         </Box>
         <Box className={style.testKotak2}>
           <Typography>Test</Typography>
